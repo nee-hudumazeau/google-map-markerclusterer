@@ -20,7 +20,7 @@
   ,
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
-    "google-map": "GoogleWebComponents/google-map#^2.0.5"
+    "google-map": "https://github.com/nee-hudumazeau/google-map.git#master"
   },
   "devDependencies": {
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
